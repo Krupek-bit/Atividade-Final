@@ -1,5 +1,0 @@
-requests
-pandas
-SQLAlchemy
-PyMySQL
-python-dotenv
