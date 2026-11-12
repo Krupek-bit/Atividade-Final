@@ -1,5 +1,4 @@
 # Dashboard — Power BI / Tableau
-
 Conectar somente ao schema `dw_campo_real`.
 
 ## Páginas recomendadas
