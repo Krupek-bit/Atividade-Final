@@ -1,0 +1,1 @@
+Execute `01_ddl_dw.sql` para criar dimensões e fatos. Execute `02_views_indicadores.sql` após carregar as tabelas. A carga ETL final ainda depende do mapeamento validado do payload CCEE e das dimensões.
